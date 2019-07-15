@@ -1,0 +1,14 @@
+.env
+/.env
+/.env.local
+/.env.local.php
+/.env.*.local
+/.idea.*
+/.idea*
+/.gitignore*
+/.git/*
+/wp-config.php
+wp-config.php
+.idea
+.idea*
+.idea/vcs.xml
