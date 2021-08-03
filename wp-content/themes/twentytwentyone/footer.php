@@ -57,8 +57,7 @@
 				<?php
 				printf(
 					/* translators: %s: WordPress. */
-					esc_html__( 'Proudly powered by %s.', 'twentytwentyone' ),
-					'<a href="' . esc_url( __( 'https://wordpress.org/', 'twentytwentyone' ) ) . '">WordPress</a>'
+					esc_html__( 'Proudly powered by the Working Class', 'twentytwentyone' ),
 				);
 				?>
 			</div><!-- .powered-by -->
